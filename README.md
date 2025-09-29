@@ -3,6 +3,8 @@
 ### <p align="center"> Olá, bem-vindo ao meu GitHub! :vulcan_salute:</p>
 
 
-Meu Nome é Andre Breitfelder serafim, Sou formado em Ciências da Computação, possuo experiência profissional em Suporte e Infra em Multinacionais.
+<p>Meu nome é Andre Breitfelder Serafim, sou formado em Ciências da Computação e atuo profissionalmente na área de Suporte e Infraestrutura de TI, com experiência em ambientes de grande porte e multinacionais.
+
+Aqui no GitHub compartilho meus estudos e projetos em Java, além de conteúdos relacionados a SQL, C/C++, R e Power BI.</p>
 
 Estou 
