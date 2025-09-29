@@ -7,4 +7,6 @@
 
 Aqui no GitHub compartilho meus estudos e projetos em Java, além de conteúdos relacionados a SQL, C/C++, R e Power BI.</p>
 
+<hr>
+
 Estou 
