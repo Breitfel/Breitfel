@@ -1,4 +1,4 @@
-## Hi there !!!!👋
+## Desenvolvimento Java, SQLq, C\C++, Análise de dados com uso da linguagem R, Power BI !!!!👋
 
 ### <p align="center"> Hello people :vulcan_salute:</p>
 
