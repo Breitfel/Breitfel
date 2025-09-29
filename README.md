@@ -13,4 +13,18 @@ Aqui no GitHub compartilho meus estudos e projetos em Java, além de conteúdos 
 
 <hr>
 
-Estou 
+🚀 O que você vai encontrar por aqui:
+
+Projetos de prática e aprendizado em Java (incluindo POO, Spring Boot, APIs REST e Docker).
+Exercícios e exemplos de análise de dados com R e visualização em Power BI.
+Experimentos com C e C++.
+Scripts e estudos voltados para banco de dados SQL.
+
+🔧 Experiência Profissional
+
+Suporte a usuários e times técnicos em ambientes corporativos.
+Gestão e monitoramento de infraestrutura.
+Implantação de soluções de TI em multinacionais.
+
+📚 Objetivo
+Evoluir constantemente minhas habilidades em desenvolvimento backend com Java e ciência de dados, aplicando-os em projetos práticos que você pode explorar aqui nos repositórios.
