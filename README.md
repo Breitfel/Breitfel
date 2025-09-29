@@ -28,3 +28,7 @@ Implantação de soluções de TI em multinacionais.
 
 📚 Objetivo
 Evoluir constantemente minhas habilidades em desenvolvimento backend com Java e ciência de dados, aplicando-os em projetos práticos que você pode explorar aqui nos repositórios.
+
+<hr>
+
+https://www.notion.so/Git-Sistema-de-Controle-de-Vers-o-203011866f0f80a68dd1e744e4e5358a?source=copy_link
