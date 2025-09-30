@@ -33,6 +33,8 @@ Evoluir constantemente minhas habilidades em desenvolvimento backend com Java e 
 
 ## 🏅 Certificações
 
+<img src="https://github.com/Breitfel/Certifica-es/blob/main/cert.PNG?raw=true" width="120px" alt="Certificação"/>
+
 
 
 
