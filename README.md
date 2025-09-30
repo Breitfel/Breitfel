@@ -33,6 +33,6 @@ Evoluir constantemente minhas habilidades em desenvolvimento backend com Java e 
 
 ## 🏅 Certificações
 
-<img src="C:\Users\Andre\Pictures\Gif Git\Certificações\cert.png"/>
+
 
 
